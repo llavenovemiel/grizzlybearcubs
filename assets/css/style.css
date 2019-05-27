@@ -1,0 +1,56 @@
+.logo-container {
+	width: 300px;
+}
+
+.company-logo {
+	width: 100%;
+}
+
+.red {
+	color: #ef3a4e !important;
+}
+
+.blue {
+	color: #2994d2 !important;
+}
+
+.yellow {
+	color: #f3d70e !important;
+}
+
+.skin  {
+	color: #f1cba8 !important;
+}
+
+.grey {
+	color: #babbbb !important;
+}
+
+.nav-item-link {
+	font-size: 20px;
+}
+
+
+.main-body {
+	padding-top: 15px;
+}
+
+.intro-container {
+	/*text-align: center;*/
+}
+
+.intro-video {
+	width: 75%;
+	display: block;
+	margin: 0 auto;
+}
+
+.admission-rates-container {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.rates_img_temp {
+	width: 75%;
+}
+
